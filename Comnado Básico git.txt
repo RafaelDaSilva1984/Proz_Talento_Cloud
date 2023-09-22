@@ -1,0 +1,74 @@
+Comando Básicos de Git
+1. **`git init`:** Inicializa um novo repositório Git em um diretório vazio, preparando-o para rastrear alterações nos arquivos.
+
+ 
+
+2. **`git add`:** Adiciona alterações feitas nos arquivos ao índice de preparação (staging area), preparando-as para o próximo commit.
+
+ 
+
+3. **`git commit`:** Cria um novo registro de versão (commit) com as alterações preparadas na staging area, proporcionando um histórico organizado do projeto.
+
+ 
+
+4. **`git status`:** Exibe o estado atual dos arquivos no repositório, mostrando quais foram modificados, adicionados ou estão prontos para commit.
+
+ 
+
+5. **`git log`:** Apresenta o histórico de commits, exibindo informações como autor, data e mensagem do commit.
+
+ 
+
+6. **`git branch`:** Lista, cria ou deleta branches, permitindo a criação de linhas de desenvolvimento independentes.
+
+ 
+
+7. **`git checkout`:** Permite a mudança entre branches ou a restauração de arquivos, facilitando a navegação no projeto.
+
+ 
+
+8. **`git merge`:** Combina as mudanças de uma branch em outra, integrando o trabalho feito em diferentes linhas de desenvolvimento.
+
+ 
+
+9. **`git remote add`:** Adiciona um repositório remoto, possibilitando colaboração e sincronização entre diferentes locais.
+
+ 
+
+10. **`git push`:** Envia commits locais para um repositório remoto, mantendo-o atualizado.
+
+ 
+
+11. **`git clone`:** Cria uma cópia de um repositório remoto localmente, permitindo o trabalho independente.
+
+ 
+
+**Comandos Adicionais:**
+
+ 
+
+- **`git config`:** Utilizado para configurar informações do usuário no Git, como nome e email.
+
+ 
+
+- **`git rm`:** Remove arquivos do repositório, preparando-os para o próximo commit.
+
+ 
+
+- **`git remote -v`:** Lista os repositórios remotos configurados, mostrando os URLs de cada um.
+
+ 
+
+Além disso, aqui estão os comandos mencionados para criar, mudar e mesclar branches:
+
+ 
+
+- **`git branch nome-da-branch`:** Cria uma nova branch.
+
+ 
+
+- **`git checkout nome-da-branch`:** Muda para a nova branch.
+
+
+
+- **`git merge nome-da-outra-branch`:** Mescla as alterações de uma branch em outra.

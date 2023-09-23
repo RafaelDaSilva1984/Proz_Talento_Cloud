@@ -1,5 +1,5 @@
 NOME
-git - o monitor de conteúdo estúpido
+git - o monitor 
 
 RESUMO
 git [--version] [--help] [-C <caminho>] [-c <nome>=<valor>]

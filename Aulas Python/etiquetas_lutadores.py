@@ -11,5 +11,5 @@ equipe=(input("Qual nome a ser registrado para sua Equipe: "))
 lutadores=(int(input("Quantos lutadores em sua Equipe: ")))
 print("Nome Registro da sua Equipe: ", equipe)
 for lutadores in range(1,lutadores+1):    
-    print("Os",equipe, "-",lutadores)
+    print("Os",equipe, "- Lutador ",lutadores)
 print("Boa sorte nos Jogos....")

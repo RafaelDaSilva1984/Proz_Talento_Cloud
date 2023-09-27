@@ -21,36 +21,39 @@
 #### Footer - Rodapé da Página
 
 ## Tags Textuais
-#### <p> paragrafos
-#### <ul> lista desordenada
-#### <ol> lista ordenada
-#### <li> itens das listas
-#### <div> conteiner genérico de separação de conteúdo
-#### <blockquote> citação de bloco de texto
+#### p paragrafos
+#### ul lista desordenada
+#### ol lista ordenada
+#### li itens das listas
+#### div conteiner genérico de separação de conteúdo
+#### blockquote citação de bloco de texto
 
 ## Tags Inline
-#### <a> links
-#### <Href> cria hiperligação entre páginas
-#### <b> destaque Negrito
-#### <br> quebra de linha de um texto
-#### <spam> conteiner genérico fraseado (linha)
-#### <small> estilo de tamanhos menores de fonte (legendas)
-#### <strong> Negrito
+#### a links
+#### Href cria hiperligação entre páginas
+#### b destaque Negrito
+#### br quebra de linha de um texto
+#### spam conteiner genérico fraseado (linha)
+#### small estilo de tamanhos menores de fonte (legendas)
+#### strong Negrito
 
 ## Tags Multimidias
-#### <img> Embutir imagens
-#### <audio> Embutir aúdio
-#### <video> Embutir vídeo
+#### img Embutir imagens
+#### audio Embutir aúdio
+#### video Embutir vídeo
+#### iframe 
+#### source
+#### picture
 
 ## Tags Formulários
-#### <form> Criar formulário - Conter elemento e pode ser atribuido por - Ref(referência)
-#### <input > Campo de entrada de dados textual - atribuido por type (radio-text-password)
-#### <textarea> Campo para inserção de muitas linhas de texto
-#### <select> Lista com opções selecionáveis pelo usuário menu de opções
-#### <option> Opções disponíveis no select  
-#### <button> Botões
-#### <fieldset> agrupar elementos
-#### <label> legenda
+#### form Criar formulário - Conter elemento e pode ser atribuido por - Ref(referência)
+#### input Campo de entrada de dados textual - atribuido por type (radio-text-password)
+#### textarea Campo para inserção de muitas linhas de texto
+#### select Lista com opções selecionáveis pelo usuário menu de opções
+#### option Opções disponíveis no select  
+#### button Botões
+#### fieldset agrupar elementos
+#### label legenda
 
 ### class - atribui uma classe
 ### id - atribui o ID do elemento

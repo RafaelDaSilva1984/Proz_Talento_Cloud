@@ -11,7 +11,6 @@ let numA1 = 5;
 let numB1 = 9;
 let soma = `A soma de ${numA1} e ${numB1} é ${numA1 +numB1}`;
 console.log(soma);
-
 /*Acesse o site OneCompiler (link em anexo) e crie uma função que recebe dois números 
 como parâmetros e imprime quatro frases no terminal (a partir de template strings) 
 demonstrando as quatro operações básicas aplicadas a ambos números. Exemplo:
